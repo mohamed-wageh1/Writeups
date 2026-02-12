@@ -146,6 +146,7 @@ drwxr-xr-x 2 root    root    4096 Oct 14 09:26 .
 drwxr-xr-x 3 root    root    4096 Oct 14 09:26 ..
 -rw-r----- 1 bandit4 bandit3   33 Oct 14 09:26 ...Hiding-From-You
 so we try to read it to get the password for the next level
+
 bandit3@bandit:~/inhere$ cat ...Hiding-From-You
 
 Output:
@@ -160,6 +161,7 @@ The password for the next level is stored in the only human-readable file in the
 so we connect and find the inhere dir and the ls all the content of it and found multiple directories so we use file command. File command returns the type of data that is found in the file
 bandit4@bandit:~/inhere$ ls
 -file00  -file01  -file02  -file03  -file04  -file05  -file06  -file07  -file08  -file09
+
 bandit4@bandit:~/inhere$ file ./*
 ./-file00: data
 ./-file01: data
