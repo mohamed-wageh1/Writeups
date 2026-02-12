@@ -67,7 +67,7 @@ The image was first converted from PNG to PPM format, then executed:
 ./npiet PI3T.ppm
 ```
 
-![npiet output](images/piet-output.png)
+![npiet output](images/npiet-output.png)
 
 Output:
 ```
