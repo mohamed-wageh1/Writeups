@@ -16,9 +16,13 @@ print 'Password is not numeric';
 }
 ?>
 means we need a number less than 4 digits and greater than 999 and we know that its writtin in php and php can understand hexadecimal so this is a way to put a number greater than 999 and less than 4 digits
+
 ![image](../media/bignumberimg2.png)
+
 3E8
+
 ![image](../media/bignumberimg3.png)
+
 And we got the flag
 FLAG{Yes_Y0u_C4n_Use_Exp0nentiaL}
 
