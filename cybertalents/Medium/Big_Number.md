@@ -1,5 +1,6 @@
 Challenge Name:  Big Number
 First thing I Saw is an input area only accepting integers 
+
 ![image](../media/bignumberimg1.png)
 
 And in the source page
